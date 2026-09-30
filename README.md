@@ -595,8 +595,8 @@
     <div class="wrap">
       <h2 id="titre-telechargements">Documents à télécharger</h2>
       <div class="telechargements">
-        <a class="btn-pdf" href="ANNEXE C3-Programme formation_cnv_lhss.pdf" download>📄 Télécharger le programme complet (PDF)</a>
-        <a class="btn-pdf secondaire" href="ANNEXE C6 Livret_stagiaire V2.pdf" download>📘 Télécharger le livret stagiaire (PDF)</a>
+        <a class="btn-pdf" href="ANNEXE%20C3-Programme%20formation_cnv_lhss.pdf" download>📄 Télécharger le programme complet (PDF)</a>
+        <a class="btn-pdf secondaire" href="ANNEXE%20C6%20Livret_stagiaire%20V2.pdf" download>📘 Télécharger le livret stagiaire (PDF)</a>
       </div>
     </div>
   </section>

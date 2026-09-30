@@ -231,7 +231,7 @@
   }
   .pause-note {
     font-size: 0.9rem;
-    color: var(--taupe);
+    color: var(--gris-texte);
     font-style: italic;
     margin-top: 10px;
   }
@@ -372,14 +372,14 @@
 
 <header class="hero">
   <div class="wrap">
-    <img class="logo" src="LOGO ARH PNG + slogan.png" alt="alternative RH – L'épanouissement des compétences">
+    <img class="logo" src="LOGO%20ARH%20PNG%20%2B%20slogan.png" alt="alternative RH – L'épanouissement des compétences">
     <span class="eyebrow">Formation intra-entreprise</span>
     <h1>Communication Non Violente et régulation des tensions en équipe – LHSS</h1>
     <p class="accroche">Une journée pour donner aux équipes du Lit Halte Soins Santé les repères et les outils concrets pour désamorcer les tensions, mieux communiquer entre métiers et renforcer la cohésion collective.</p>
     <div class="infos-cles">
       <span>📅 <strong>28 août 2026</strong></span>
       <span>⏱️ <strong>7 heures</strong> · 9h00 – 17h00</span>
-      <span>📍  Locaux de l'établissement, Marseille</span>
+      <span>📍 Locaux de l'établissement, Marseille</span>
       <span>👥 <strong>12</strong> participants</span>
     </div>
   </div>
@@ -579,15 +579,7 @@
   <section aria-labelledby="titre-lieu">
     <div class="wrap">
       <h2 id="titre-lieu">Lieu de la formation</h2>
-      <div class="map-frame">
-        <iframe
-          title="Localisation de la formation : 60 Avenue André Roussin, 13016 Marseille"
-          src="https://www.google.com/maps?q=60%20Avenue%20Andr%C3%A9%20Roussin%2C%2013016%20Marseille&output=embed"
-          loading="lazy"
-          referrerpolicy="no-referrer-when-downgrade">
-        </iframe>
-      </div>
-      <p class="adresse-texte">alternative RH — 60 Avenue André Roussin, 13016 Marseille</p>
+      <p class="adresse-texte">La formation se déroule dans les locaux de l'établissement, dans une salle accessible aux personnes à mobilité réduite. L'adresse précise figure dans la convocation adressée à chaque participant.</p>
     </div>
   </section>
 

@@ -278,7 +278,7 @@
     flex-wrap: wrap;
     gap: 16px;
   }
-  .btn-pdfANNEXE C6 Livret_stagiaire V2.pdf {
+  .btn-pdf {
     display: inline-flex;
     align-items: center;
     gap: 10px;
